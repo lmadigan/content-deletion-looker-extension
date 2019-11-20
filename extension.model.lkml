@@ -1,5 +1,5 @@
 connection: "cucu-thelook-connection"
-                    # include all views in this project
+
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
 
 # # Select the views that should be a part of this model,
